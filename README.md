@@ -1,1 +1,1 @@
-# Clearpaty-Unity-ARKit-iOS-
+# Clearpath-Unity-ARKit-iOS
